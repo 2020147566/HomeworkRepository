@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color:whitesmoke;
+    padding:0%;
+    margin:0%;
+    border:2px solid navy;
+    color:navy;
+    width: 1000px;
+    height: 40px;
+}
+
+form {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.submit {
+    width: 100px;
+    height: 40px;
+}
+
+.submit2 {
+    width: 100px;
+    height: 40px;
+}
+
