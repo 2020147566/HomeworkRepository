@@ -1,0 +1,78 @@
+#index {
+    width: 1020px;
+    margin: 0 auto;
+}
+
+#header {
+    animation-name: run;
+    animation-duration: 2s;
+}
+@keyframes run {
+    0%{
+        transform: translateX(1020px);
+    }
+    100%{
+        transform: translateX(0px);
+    }
+}
+
+#content {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    transition: all 2s linear;
+}
+
+.image:hover {
+    width: 500px;
+    height: 500px; 
+}
+
+#inform {
+    Column-count: 2;
+    column-gap: 10px;
+    column-width: 50px;
+    column-rule-style: solid;
+    column-rule-width: medium;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color:whitesmoke;
+    padding:0%;
+    margin:0%;
+    border:2px solid navy;
+    color:navy;
+    width: 1000px;
+    height: 40px;
+}
+
+form {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.submit {
+    width: 100px;
+    height: 40px;
+}
+
+.submit2 {
+    width: 100px;
+    height: 40px;
+}
+
