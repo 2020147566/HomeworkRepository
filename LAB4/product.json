@@ -1,0 +1,74 @@
+[
+  {
+    "name" : "노란 티셔츠",
+    "price" : 5000,
+    "image" : "노란 티셔츠.jpg",
+    "type" : "상의"
+  },
+  {
+    "name" : "스마일 티셔츠",
+    "price" : 10000,
+    "image" : "스마일 티셔츠.jpg",
+    "type" : "상의"
+  },
+  {
+    "name" : "셔츠",
+    "price" : 25000,
+    "image" : "셔츠.jpg",
+    "type" : "상의"
+  },
+  {
+    "name" : "베이지 카디건",
+    "price" : 35000,
+    "image" : "베이지 카디건.jpg",
+    "type" : "상의"
+  },
+  {
+    "name" : "청바지",
+    "price" : 59000,
+    "image" : "청바지.jpg",
+    "type" : "하의"
+  },
+  {
+    "name" : "체크 스커트",
+    "price" : 22000,
+    "image" : "체크 스커트.jpg",
+    "type" : "하의"
+  },
+  {
+    "name" : "슬렉스",
+    "price" : 46000,
+    "image" : "슬렉스.jpg",
+    "type" : "하의"
+  },
+  {
+    "name" : "데님 스커트",
+    "price" : 38000,
+    "image" : "데님 스커트.jpg",
+    "type" : "하의"
+  },
+  {
+    "name" : "에코백",
+    "price" : 14000,
+    "image" : "에코백.jpg",
+    "type" : "액세서리"
+  },
+  {
+    "name" : "목걸이",
+    "price" : 70000,
+    "image" : "목걸이.jpg",
+    "type" : "액세서리"
+  },
+  {
+    "name" : "손목시계",
+    "price" : 59000,
+    "image" : "손목시계.jpg",
+    "type" : "액세서리"
+  },
+  {
+    "name" : "지갑",
+    "price" : 75000,
+    "image" : "지갑.jpg",
+    "type" : "액세서리"
+  }
+]
